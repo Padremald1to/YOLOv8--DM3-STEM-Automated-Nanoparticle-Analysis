@@ -18,8 +18,9 @@ We invite the community to contribute to the project by submitting issues, featu
 Weights for YOLOv8 S/TEM nanoparticle object detection
 Obtained from https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM
 https://drive.google.com/file/d/1XY8FXWtPb8T-QkiEPR0ENWRPcck_aHRS/view?usp=sharing
+Put this file best15x.pt in the same folder as script.
 
-## Installation
+## Python Installation requisites
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>

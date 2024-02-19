@@ -11,11 +11,8 @@ STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM is a software designed for the a
 ## Applications
 This software is essential for researchers and professionals working in nanotechnology, advanced materials, chemistry, physics, and related fields requiring detailed and accurate nanoparticle analysis.
 
-## Usage Instructions
-(Here you can add a brief tutorial or steps on how to install and start using the program, including any necessary prerequisites.)
-
 ## Contributing
-We invite the community to contribute to the project by submitting issues, feature requests, and pull requests. Every contribution helps make STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM a better tool for everyone.
+We invite the community to contribute to the project by submitting issues, feature requests, and pull requests. Every contribution helps make this software a better tool for everyone.
 
 ## Models weight
 Weights for YOLOv8 S/TEM nanoparticle object detection

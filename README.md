@@ -7,7 +7,7 @@ STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM is a software designed for the a
 - **Automated Extraction:** The program processes DM3 files to extract images and determine the pixel-to-nanometer conversion scale, facilitating subsequent interpretation and analysis.
 - **Nanoparticle Detection:** Utilizing the advanced YOLOv8 algorithm, the system automatically identifies nanoparticles within the image, optimizing analysis precision and speed.
 - **Selection and Analysis:** From all detected nanoparticles, the program selects a representative set of 500, calculating the average size of these to provide relevant and useful statistics for research and industrial applications.
-
+https://github.com/padremaldtio/YOLOv8--DM3-STEM-Automated-Nanoparticle-Analysis/blob/8ce160d88147fbe1f4e38c796b073809bad9bcbc/TEM.png
 ## Applications
 This software is essential for researchers and professionals working in nanotechnology, advanced materials, chemistry, physics, and related fields requiring detailed and accurate nanoparticle analysis.
 
